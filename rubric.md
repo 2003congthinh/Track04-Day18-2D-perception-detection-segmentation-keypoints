@@ -1,4 +1,4 @@
-# Lab Ngày 17 — Thang điểm (100 điểm lõi + 20 bonus)
+# Lab Ngày 18 — Thang điểm (100 điểm lõi + 20 bonus)
 
 Bám sát bài giảng *2D Perception: Detection · Segmentation · Keypoints*. Mỗi tiêu chí được chấm bằng **output trong
 notebook đã chạy** và file `submission/ket_qua.json` do ô cuối notebook tạo ra.
@@ -39,9 +39,9 @@ Không làm bonus không làm giảm điểm lõi.
 
 ## Nộp bài
 
-**Không mở PR. Nộp một URL GitHub public vào ô LMS Ngày 17.**
+**Không mở PR. Nộp một URL GitHub public vào ô LMS Ngày 18.**
 
-1. Đẩy bài lên `<username-của-bạn>/Track04-Day17-2D-perception-detection-segmentation-keypoints` (fork hoặc repo mới, **public**).
+1. Đẩy bài lên `<username-của-bạn>/Track04-Day18-2D-perception-detection-segmentation-keypoints` (fork hoặc repo mới, **public**).
 2. Repo phải có:
    - `lab_2d_perception_student.ipynb` đã chạy hết, **còn nguyên output**;
    - `submission/ket_qua.json`;

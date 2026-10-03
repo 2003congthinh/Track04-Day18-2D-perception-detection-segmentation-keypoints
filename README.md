@@ -1,6 +1,6 @@
-# Lab 17 — 2D Perception: Detection · Segmentation · Keypoints (Track 4)
+# Lab 18 — 2D Perception: Detection · Segmentation · Keypoints (Track 4)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VinUni-AI20k/Track04-Day17-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VinUni-AI20k/Track04-Day18-2D-perception-detection-segmentation-keypoints/blob/main/lab_2d_perception_student.ipynb)
 
 > 🏭 Camera ở cổng nhà máy cần biết: **có bao nhiêu người**, **ai không đội mũ bảo hộ**, và **có ai vừa ngã**.
 > Bạn dùng một model hay ba — và output của mỗi model trông như thế nào?
@@ -132,8 +132,8 @@ Xem [`rubric.md`](rubric.md) (100 điểm lõi + 20 bonus).
 2. Chạy ô cuối. Ô này tạo thư mục `submission/` và file `submission.zip`, gồm `ket_qua.json` và `autolabel/bus.txt`.
 3. Tải về **notebook đã chạy** (`File → Download → Download .ipynb`) và **`submission.zip`** (biểu tượng 📁 ở cột trái của Colab), rồi giải nén.
 4. Đẩy notebook và thư mục `submission/` lên repo GitHub **public** của bạn:
-   `<username-của-bạn>/Track04-Day17-2D-perception-detection-segmentation-keypoints` (fork hoặc repo mới).
-5. Dán URL repo vào ô LMS Ngày 17. **Không mở PR.** Giữ repo public cho đến khi có điểm; repo private = 0 điểm.
+   `<username-của-bạn>/Track04-Day18-2D-perception-detection-segmentation-keypoints` (fork hoặc repo mới).
+5. Dán URL repo vào ô LMS Ngày 18. **Không mở PR.** Giữ repo public cho đến khi có điểm; repo private = 0 điểm.
 
 ---
 
